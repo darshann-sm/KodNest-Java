@@ -28,7 +28,7 @@ public class StudentInfo {
         System.out.print("Enter placement status (true/false): ");
         boolean placementStatus = sc.nextBoolean();
 
-        System.out.println("\nStudent informatin");
+        System.out.println("\nStudent information");
         System.out.println("-----------");
         System.out.println("student name : " + studentName);
         System.out.println("age : " + age);
